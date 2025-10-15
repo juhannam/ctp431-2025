@@ -3,7 +3,7 @@
 The goal of this homework assignment is to improve the overall quality of music made in Homework #2 by adding audio effects to each audio track and mixing them.   
 
 ## Due date and deliverables
-- **Oct 26, 11:59pm **
+- **Oct 26, 11:59pm**
 - Deliverables: report (.pdf), Audacity file (aup3, aup3-wal, aup3-shm), stereo mix file (.mp3), and source code (.ipynb) (.ipynb files are optional) 
 - Make a zip file and submit it to KLMS.
 
