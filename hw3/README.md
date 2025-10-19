@@ -17,8 +17,8 @@ The goal of this homework assignment is to improve the overall quality of music 
 - Choose an audio effect (EQ, Distortion, Reverb, and more) and apply it to the tracks  
 - Adjust audio effect parameters until you find a satisfying setup 
 
-## Step #3: Mixing gain, Panning, and Mix-down in Audacity 
-- Adjust the volumne gain and panning value of individual tracks until you feel all tracks are well balanced
+## Step #3: Volume gain, panning, and mix-down in Audacity 
+- Adjust the volumne gain and panning value of individual tracks so that the mixed tracks are well balanced in the stereo mode
 - Mix down the tracks to a new stereo track
 - Export the stereo track as an mp3 file.
 
