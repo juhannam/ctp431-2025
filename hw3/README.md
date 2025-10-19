@@ -7,8 +7,8 @@ The goal of this homework assignment is to improve the overall quality of music 
 - Deliverables: report (.pdf), Audacity file (aup3, aup3-wal, aup3-shm), stereo mix file (.mp3), and source code (.ipynb) (.ipynb files are optional) 
 - Make a zip file and submit it to KLMS.
 
-## Step #1: Improving your music with Python code 
-- (Optional) Improve your HW2 by modifying existing tracks or adding more tracks
+## Step #1: (Optional) Improving your music with Python code 
+- Improve your HW2 by modifying existing tracks or adding more tracks
 - You can apply filters and delay-based audio effects using the code in <a href="https://github.com/juhannam/ctp431-2025/blob/main/python/06.%20Digital%20Filters.ipynb"> 06. Digital Filters.ipynb </a> and <a href="https://github.com/juhannam/ctp431-2025/blob/main/python/07.%20Delay-based%20Audio%20Effects.ipynb"> 07. Delay-based Audio Effects.ipynb </a> 
 - If you use delay or flanger effect, consider synchronizing the tempo of your music to the effect parameters (the amount of delay or the LFO rate of the flagner) 
 
