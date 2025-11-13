@@ -3,7 +3,7 @@
 The goal of this homework is to design a real-time musical interaction system using keyboard and visual input with Chuck. Record a video of yourself performing music with the system you created.
 
 ## Due date and deliverables
-- **Due date: TBD**
+- **Due date: Nov 23 (Sun), 11:59pm**
 - Source code file (.ck)
 - A short report (.pdf): Describe what you implemented and performed
 - A video file of your performance (.mp4): This video should include yourself, your input devices and the sound. You can use your smartphone to record the video. The length should not exceed 30 seconds.
