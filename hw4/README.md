@@ -1,4 +1,4 @@
-# Homework #3: Perform live music with multi-modal input!
+# Homework #4: Perform live music with multi-modal input!
 
 The goal of this homework is to design a real-time musical interaction system using keyboard and visual input with Chuck. Record a video of yourself performing music with the system you created.
 
