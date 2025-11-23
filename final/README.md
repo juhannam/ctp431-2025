@@ -15,6 +15,11 @@ Here are possible topics that you can choose for the project
 - You can elaborate your homework submissions by adding more stuff to them with a broader idea.
 - You can also integrate your own knowledge and experiences (e.g. computer graphics or sciences) into the project.   
 
+You can find some examples that attract and inspire you in the previous years' final projects.
+- [CTP431 (2017)](https://mac.kaist.ac.kr/~juhan/ctp431/2017/final_project.html) 
+- [CTP431 (2018)](https://mac.kaist.ac.kr/~juhan/ctp431/2018/finals.html)
+- [CTP431 (2024)](https://mac.kaist.ac.kr/~juhan/ctp431/2024/final_project.html)
+
 ## Step #2: Project Development
 Keep the following advices in mind:
 
